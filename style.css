@@ -53,3 +53,10 @@ color: brown
 a:active{
   color: lightblue
 }
+img{
+  width: 50%;
+  height: 50%;
+}
+.tittle-box{
+  display: flex;
+}
