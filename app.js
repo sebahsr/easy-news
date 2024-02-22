@@ -37,7 +37,8 @@ function createarticle(article){
     return `
      
     <div class='box'>
-    <div class='tittle-box'><a href='${article.url}'><h3>${article.title}</h3> </a>
+    <div class='tittle-box'>
+    <a href='${article.url}'><h3>${article.title}</h3> </a>
      <img src='${article.urlToImage}'></div>
       <p>${article.description}</p>
         </div>

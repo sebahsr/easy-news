@@ -59,4 +59,5 @@ img{
 }
 .tittle-box{
   display: flex;
+  flex-grow: inherit;
 }
